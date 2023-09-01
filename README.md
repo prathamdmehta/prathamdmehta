@@ -1,4 +1,4 @@
-![logo](https://github.com/prathamehta06/prathamehta06/blob/main/github-banner.jpg)
+![logo](https://github.com/prathamdmehta/prathamdmehta/blob/main/github-banner.jpg)
 <h3 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
