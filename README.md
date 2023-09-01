@@ -13,11 +13,9 @@
 
 - 🌱 I’m currently learning **Python and JavaScript.**
 
-- 👨‍💻 All of my projects are available at [https://prathamdmehta.netlify.app/](https://prathamdmehta.netlify.app/)
+- 👨‍💻 Visit my Portfolio Website [https://prathamdmehta.netlify.app/](https://prathamdmehta.netlify.app/)
 
-- 📝 I regularly write my daily coding updates on [https://www.linkedin.com/in/prathamdmehta/](https://www.linkedin.com/in/prathamdmehta/)
-
-- 📫 How to reach me **mehtapratham612@gmail.com**
+- 📫 Mail me **mehtapratham612@gmail.com**
 
 - ⚡ Fun fact **'Coding Bugs were NOT named after an actual bug'**
 
@@ -41,6 +39,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+ <p align="center"> <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
+  </a></p>
+  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdmehta&show_icons=true&locale=en&layout=compact" alt="prathamdmehta" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamdmehta&show_icons=true&locale=en" alt="prathamdmehta" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&" alt="prathamdmehta" /></p>
@@ -50,7 +53,6 @@
 <a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
-
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
