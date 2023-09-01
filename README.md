@@ -1,9 +1,9 @@
 ![logo](https://github.com/prathamehta06/prathamehta06/blob/main/github-banner.jpg)
 <h1 align="center">Hey<img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm Pratham Mehta;Frontend Web Developer;Editor;Photographer;Always%20eager%20to%20learn&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm Pratham Mehta;Frontend Web Developer;Photographer;Always%20eager%20to%20learn; Explore new Places&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamehta06&label=Profile%20views&color=0e75b6&style=flat" alt="prathamehta06" /> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mehtapratham612@gmail.com**
 
-- ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
+- ⚡ Fun fact **'Coding Bugs were NOT named after an actual bug'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
