@@ -46,7 +46,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdmehta&show_icons=true&locale=en&layout=compact" alt="prathamdmehta" /></p>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamdmehta&show_icons=true&theme=radical)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&" alt="prathamdmehta" /></p>
