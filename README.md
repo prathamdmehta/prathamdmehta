@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamehta06&label=Profile%20views&color=0e75b6&style=flat" alt="prathamehta06" /> </p>
 
-- 🌱 I’m currently learning **Python and JavaScript.**
+- 🌱 I’m currently learning **JavaScript(ES6).**
 
 - 👨‍💻 Visit my Portfolio Website [https://prathamdmehta.netlify.app/](https://prathamdmehta.netlify.app/)
 
