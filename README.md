@@ -1,4 +1,7 @@
-![logo](https://github.com/prathamdmehta/prathamdmehta/blob/main/github-banner.jpg)
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQG-xWun64p2FA/profile-displaybackgroundimage-shrink_350_1400/0/1705098221194?e=1710979200&v=beta&t=zPgaKcQboFp11yqfGpeImgW7OscdMyeWxhcxOxoLSoQ"  />
+</div>
+
 <h3 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -6,57 +9,65 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm Pratham Mehta;Frontend Web Developer;Photographer;Always%20eager%20to%20learn;Love to Explore new Places&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
 </p>
-<h3 align="center">A Passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamehta06&label=Profile%20views&color=0e75b6&style=flat" alt="prathamehta06" /> </p>
+###
 
-- 🌱 I’m currently learning **JavaScript(ES6).**
+<h3 align="center">Hi 👋! My name is Pratham and I'm a Frontend Developer, from Mumbai ❤️</h3>
 
-- 👨‍💻 Visit my Portfolio Website [https://prathamdmehta.netlify.app/](https://prathamdmehta.netlify.app/)
+###
 
-- 📫 Mail me **mehtapratham612@gmail.com**
+<div align="center">
+  <a href="https://www.instagram.com/mehtaprathamm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pratham-mehta/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/mehta2935" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-- ⚡ Fun fact **'Coding Bugs were NOT named after an actual bug'**
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/prathamdmehta?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prathamdmehta?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/prathamdmehta?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/prathamdmehta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/prathamdmehta/view-count-badge">
-    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
-  <a href="https://github.com/prathamdmehta"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/556-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
-</p>
+###
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/mehta2935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehta2935" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prathamdmehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham mehta" height="30" width="40" /></a>
-<a href="https://instagram.com/mehtaprathamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehtaprathamm" height="30" width="40" /></a>
-</p>
+<img align="right" height="200" src="https://camo.githubusercontent.com/91f761cf0b31ba15ac04224f132e49a063ee6163ded1a0539a263d8afca8e744/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966"  />
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
- <p align="center"> <a href="https://github.com/prathamdmehta/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
-  </a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamdmehta&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdmehta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdmehta&show_icons=true&locale=en&layout=compact" alt="prathamdmehta" /></p>
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamdmehta&show_icons=true&theme=radical)
+<br clear="both">
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&" alt="prathamdmehta" /></p>
+<img src="https://raw.githubusercontent.com/prathamdmehta/prathamdmehta/output/snake.svg" alt="Snake animation" />
+
+###
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
-<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
 
 
