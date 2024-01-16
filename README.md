@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQG-xWun64p2FA/profile-displaybackgroundimage-shrink_350_1400/0/1705098221194?e=1710979200&v=beta&t=zPgaKcQboFp11yqfGpeImgW7OscdMyeWxhcxOxoLSoQ"  />
+  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQEYZldP-5yX0w/profile-displaybackgroundimage-shrink_350_1400/0/1705417009305?e=1710979200&v=beta&t=4sLcMCyTR3XPXVw8rq6JSsWfzMgxe52sqKV1-g3nEgE"  />
 </div>
 
 <h3 align="center">
@@ -68,6 +68,3 @@
 ###
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
