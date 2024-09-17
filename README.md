@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQEYZldP-5yX0w/profile-displaybackgroundimage-shrink_350_1400/0/1705417009305?e=1710979200&v=beta&t=4sLcMCyTR3XPXVw8rq6JSsWfzMgxe52sqKV1-g3nEgE"  />
+  <img height="200" src="![DSC00312](https://github.com/user-attachments/assets/0975ed3e-3286-4baf-8ee2-7f42d7bee5cd)"  />
 </div>
+
+
 
 ###
 
