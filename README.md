@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs"> </a> </p>
+<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,react"></a></p>
 
 
 <br clear="both">
