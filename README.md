@@ -1,5 +1,3 @@
-# ![DSC00312](https://github.com/user-attachments/assets/0975ed3e-3286-4baf-8ee2-7f42d7bee5cd)
-
 ###
 
 <h3 align="center">
