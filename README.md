@@ -25,15 +25,15 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,SQL,vscode,git,github,tailwind,js,react"></a></p>
+<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,js,react,tailwind,vscode,git,github"></a></p>
 
 
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathamdmehta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" /> -->
 </div>
 
 ###
