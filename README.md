@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,MySql,vscode,git,github,tailwind,js,react"></a></p>
+<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,MySQL,vscode,git,github,tailwind,js,react"></a></p>
 
 
 <br clear="both">
