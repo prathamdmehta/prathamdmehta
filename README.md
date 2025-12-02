@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Pratham and I'm a Python Developer, from Mumbai ❤️</h3>
+<h3 align="center">Hi 👋! My name is Pratham and I'm a Python Developer, from INDIA❤️</h3>
 
 ###
 
