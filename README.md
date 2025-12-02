@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Pratham and I'm a Web Developer, from Mumbai ❤️</h3>
+<h3 align="center">Hi 👋! My name is Pratham and I'm a Python Developer, from Mumbai ❤️</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,js,react,tailwind,vscode,git,github"></a></p>
+<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,tailwind,vscode,git,github,postman"></a></p>
 
 
 <br clear="both">
