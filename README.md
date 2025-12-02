@@ -1,4 +1,4 @@
-<img src="https://github.com/prathamdmehta/prathamdmehta/blob/main/git-banner.gif" >
+<img src="https://github.com/prathamdmehta/prathamdmehta/blob/main/git-banner.gif" height="35">
 
 <h3 align="center">
   Welcome to my profile!
