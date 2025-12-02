@@ -26,9 +26,9 @@
 
 <br clear="both">
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;>
-  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" />
+<div align="center">
+<img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats-nine-topaz-27.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
