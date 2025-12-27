@@ -23,9 +23,14 @@
 
 <p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,tailwind,vscode,git,github,postman,docker,kubernetes"></a></p>
 
-<p align="center"> ![Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776)
-![Custom](https://img.shields.io/badge/status-Building%20GenZLang-brightgreen)
-![Learning](https://img.shields.io/badge/learning-Django%20REST-brightgreen) </p>
+<p align="center">
+
+  <img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776" alt="Status" />
+  <img src="https://img.shields.io/badge/status-Building%20GenZLang-brightgreen" alt="Custom" />
+  <img src="https://img.shields.io/badge/learning-Django%20REST-brightgreen" alt="Learning" />
+
+</p>
+
 
 
 <br clear="both">
