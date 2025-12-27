@@ -25,9 +25,9 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/status-Online-2e7d32" alt="Status"/>
-  <img src="https://img.shields.io/badge/Building%20GenZLang-2e7d32" alt="Custom" />
-  <img src="https://img.shields.io/badge/learning-Django%20REST-2e7d32" alt="Learning" />
+  <img src="https://img.shields.io/badge/Status-Online-2e7d32" alt="Status"/>
+  <img src="https://img.shields.io/badge/Building-GenZLang-2e7d32" alt="Custom" />
+  <img src="https://img.shields.io/badge/Learning-Django%20REST-2e7d32" alt="Learning" />
 
 </p>
 
