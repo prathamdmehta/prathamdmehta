@@ -23,6 +23,8 @@
 
 <p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,tailwind,vscode,git,github,postman,docker,kubernetes"></a></p>
 
+###
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Status-Online-2e7d32" alt="Status"/>
