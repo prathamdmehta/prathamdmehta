@@ -25,7 +25,7 @@
 
 <p align="center">
 
-  ![Status](https://img.shields.io/badge/status-Always%20Online%20🚀-brightgreen)
+  ![Status](https://img.shields.io/badge/status-Always%20Online%20🚀-green)
   <img src="https://img.shields.io/badge/status-Building%20GenZLang-brightgreen" alt="Custom" />
   <img src="https://img.shields.io/badge/learning-Django%20REST-brightgreen" alt="Learning" />
 
