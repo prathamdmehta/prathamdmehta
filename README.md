@@ -28,7 +28,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/Status-Online-2e7d32" alt="Status"/>
-  <img src="https://img.shields.io/badge/Building-GenZLang-purple" alt="Custom" />
+  <img src="https://img.shields.io/badge/Building-GenZLang-5662e0" alt="Custom" />
   <img src="https://img.shields.io/badge/Learning-DRF%20&%20FastAPI-blue" alt="Learning" />
 
 </p>
