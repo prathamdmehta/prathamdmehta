@@ -25,7 +25,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776" alt="Status" />
+  ![Status](https://img.shields.io/badge/status-Always%20Online%20🚀-brightgreen)
   <img src="https://img.shields.io/badge/status-Building%20GenZLang-brightgreen" alt="Custom" />
   <img src="https://img.shields.io/badge/learning-Django%20REST-brightgreen" alt="Learning" />
 
