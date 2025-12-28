@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,tailwind,vscode,git,github,postman,docker,kubernetes"></a></p>
+<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,tailwind,vscode,git,github,postman,docker,kubernetes,vercel"></a></p>
 
 ###
 
