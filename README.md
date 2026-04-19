@@ -38,7 +38,7 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula&count_private=true" height="150" />
 <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" />
 </div>
 
