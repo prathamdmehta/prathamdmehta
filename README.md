@@ -1,69 +1,264 @@
-<img src="https://github.com/prathamdmehta/prathamdmehta/blob/main/git-banner.gif">
-
-<h3 align="center">
-  Welcome to my profile!
-</h3>
-
-###
-
-<h3 align="center">Hi 👋! My name is Pratham and I'm a Python Developer, from INDIA❤️</h3>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/prathamdmehta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> 
-  <a href="https://twitter.com/mehta2935" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pratham%20Mehta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20MSc%20CS%20%40%20Maynooth&descAlignY=55&descSize=18)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;FastAPI+%2B+Django+%2B+React;Building+RAG+%26+LLM-powered+Apps;MSc+Computer+Science+%40+Maynooth+University" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍-Maynooth,_Ireland-6D28D9?style=for-the-badge)
+![MSc](https://img.shields.io/badge/🎓-MSc_Computer_Science-6D28D9?style=for-the-badge)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamdmehta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamdmehta)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtapratham0612@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamdmehta)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=prathamdmehta&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/prathamdmehta?style=for-the-badge&color=8B5CF6&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/prathamdmehta?style=for-the-badge&color=8B5CF6&label=STARS)
+
 </div>
 
-###
+---
 
-<p align="center"> <a href="https://github.com/prathamdmehta"><img src="https://skillicons.dev/icons?i=python,django,js,react,tailwind,postgresql,vscode,git,github,postman,docker,kubernetes,vercel"></a></p>
+### 🧠 About Me
 
-###
+```txt
+const pratham = {
+    role: "Full Stack Developer & AI/ML Enthusiast",
+    location: "Maynooth, Ireland",
+    education: "MSc Computer Science @ Maynooth University",
+    focus: ["Backend Engineering", "REST API Design", "RAG / LLM Applications", "Full Stack Development"],
+    mindset: "Building reliable, production-minded software end to end"
+};
+```
 
-<p align="center">
+- 🎯 Full Stack Developer with hands-on experience building end-to-end web applications and RESTful APIs
+- 🏗️ Strong foundation in **system design**, **API architecture**, and **performance optimization**
+- 🤖 Actively exploring **AI/ML** and **Retrieval-Augmented Generation (RAG)** through coursework and personal projects
+- 🎓 Currently pursuing an **MSc in Computer Science** at Maynooth University (BSc Computer Science, First Class, University of Mumbai)
+- 🌱 **Open to:** Software Engineering roles, Full Stack roles, and AI/ML Engineering opportunities
 
-  <img src="https://img.shields.io/badge/Status-Online-2e7d32" alt="Status"/>
-  <img src="https://img.shields.io/badge/Building-GenZLang-5662e0" alt="Custom" />
-  <img src="https://img.shields.io/badge/Learning-DRF%20&%20FastAPI-blue" alt="Learning" />
+---
 
-</p>
+### 🛠️ Tech Stack
 
+**Languages**
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML/CSS](https://skillicons.dev/icons?i=html,css) ![Bash](https://skillicons.dev/icons?i=bash)
 
+**Frontend**
+![React](https://skillicons.dev/icons?i=react)
 
-<br clear="both">
+**Backend & Databases**
+![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-<!-- <div align="center">
-<img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula&count_private=true" height="150" />
-<img src="https://github-readme-stats-nine-topaz-27.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" />
-</div> -->
+**Cloud, DevOps & Tooling**
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&theme=dracula" />
-</div> -->
+---
+
+### 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Retrieval-Augmented Generation (RAG) | 🟣🟣🟣⚪⚪ | Built a document-grounded chatbot using LangChain, FAISS vector search, and OpenAI GPT-4o-mini |
+| Semantic Search | 🟣🟣🟣⚪⚪ | Implemented embedding-based retrieval with source citation for multi-document Q&A |
+| LLM Application Development | 🟣🟣🟣⚪⚪ | Designed caching layers to reduce redundant query processing across chat sessions |
+| Machine Learning Fundamentals | 🟣🟣⚪⚪⚪ | Coursework in Machine Learning as part of MSc Computer Science |
+
+---
+
+### 🚀 Featured Projects
+
+<details>
+<summary><b>🤖 PDF RAG Chatbot</b></summary>
+<br/>
+
+A Retrieval-Augmented Generation chatbot that answers questions over uploaded PDF documents with cited sources, through a ChatGPT-style interface.
+
+| | |
+|---|---|
+| **Stack** | LangChain, OpenAI GPT-4o-mini, Streamlit, FAISS |
+| **Scale** | Supports analysis of 10+ page documents, 5+ concurrent uploads |
+| **Performance** | Query caching to avoid repeated processing across multi-document sessions |
+| **Security** | Scoped document context per session |
+| **Impact** | Enables fast, source-cited Q&A over long documents |
+| **Repository** | [rag-pdfchatbot](https://rag-pdfchatbot/) |
+
+Built a RAG-based PDF chatbot combining semantic search with source citations, designed to make navigating long documents fast and verifiable rather than a manual search-and-skim process.
+
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce REST API</b></summary>
+<br/>
+
+A modular e-commerce backend with authenticated endpoints for products, categories, and orders.
+
+| | |
+|---|---|
+| **Stack** | FastAPI, SQLAlchemy, SQLite, JWT, Pydantic |
+| **Scale** | 15+ endpoints across 3 route modules (products, categories, orders) |
+| **Performance** | Dedicated CRUD layer, optimized query structure |
+| **Security** | JWT authentication with bcrypt password hashing |
+| **Impact** | Auto-generated Swagger UI & ReDoc docs, automatic stock decrement on order creation |
+| **Repository** | *Add repo link* |
+
+Designed with a clean separation of concerns — routing, schemas, and CRUD logic — with Pydantic v2 validation ensuring data integrity across every endpoint.
+
+</details>
+
+<details>
+<summary><b>💰 Expense Sharing API</b></summary>
+<br/>
+
+A Django REST API for tracking shared group expenses and auto-calculating balances.
+
+| | |
+|---|---|
+| **Stack** | Django REST Framework, SQLite, Docker, Docker Compose |
+| **Scale** | 10+ expense groups, 5+ users per group, 12+ endpoints |
+| **Performance** | Automated per-member balance calculation across shared expenses |
+| **Security** | Containerized isolation via Docker |
+| **Impact** | Single-command local setup with automated migrations |
+| **Repository** | *Add repo link* |
+
+Containerized end-to-end with Docker Compose so the entire stack — API, database, and migrations — spins up with one command.
+
+</details>
+
+---
+
+### 💼 Experience
+
+**Python Full Stack Development Intern** · QSpiders Software Testing Training Institute
+`May 2025 – Aug 2025` · Thane, India
+
+- Built and deployed a FastAPI-based e-commerce REST API with JWT authentication
+- Optimized database models and implemented a structured CRUD architecture, reducing query latency and improving maintainability
+- Introduced automated tests and versioned API endpoints, improving reliability and reducing integration issues
+
+`Python` `FastAPI` `JWT` `REST APIs` `SQL` `Automated Testing`
+
+---
+
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula&count_private=true" height="150" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&theme=dracula&count_private=true" height="150" />
+
+| Recognition | Details |
+|---|---|
+| Freelance Delivery | Delivered freelance web components on Fiverr for international clients with 5-star feedback |
+| Open Source | Active GitHub contributor with 4+ deployed projects demonstrating end-to-end development |
+
 </div>
 
-###
+---
+
+### 📜 Certifications
+
+**Tech-A-Intern**
+
+![Web Dev](https://img.shields.io/badge/Web_Development_%26_Design-2024-6D28D9?style=flat-square&logo=html5&logoColor=white)
+
+*Covered responsive design, UI/UX principles, and modern frontend development.*
+
+---
+
+### 💻 Coding Profiles
+
+> *Add your actual profile links below to activate these badges.*
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/YOUR-USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR-USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR-USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR-USERNAME)
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathamdmehta&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdmehta&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=E5E7EB&bg_color=0D1117" width="60%" />
+
 </div>
 
-###
+---
+
+### 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prathamdmehta&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamdmehta&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E5E7EB" width="90%" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prathamdmehta/prathamdmehta/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+---
+
+### 🎯 Current Focus
+
+```yaml
+learning:
+  - Machine Learning & RAG architectures
+  - Mobile Application Development
+building:
+  - AI-powered developer tools
+  - Production-grade REST APIs
+exploring:
+  - LLM application design patterns
+  - Cloud-native deployment workflows
+open_to:
+  - Software Engineering roles
+  - Full Stack Developer roles
+  - AI/ML Engineering opportunities
+```
+
+---
+
+### 📫 Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtapratham0612@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamdmehta)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamdmehta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamdmehta.vercel.app/)
+
+---
+
+<div align="center">
+
+*"Build things that work, ship them, and keep learning."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
