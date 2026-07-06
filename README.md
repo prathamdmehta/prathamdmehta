@@ -32,19 +32,19 @@
 
 ```txt
 const pratham = {
-    role: "Full Stack Developer & AI/ML Enthusiast",
+    role: "Python Web Developer & Full Stack Developer",
     location: "Maynooth, Ireland",
     education: "MSc Computer Science @ Maynooth University",
-    focus: ["Backend Engineering", "REST API Design", "RAG / LLM Applications", "Full Stack Development"],
-    mindset: "Building reliable, production-minded software end to end"
+    focus: ["Django", "FastAPI", "REST API Design", "Full Stack Development", "Python Web Development"],
+    mindset: "Building reliable, production-minded software end to end while deepening FastAPI concepts and exploring new AI platforms"
 };
 ```
 
 - 🎯 Full Stack Developer with hands-on experience building end-to-end web applications and RESTful APIs
-- 🏗️ Strong foundation in **system design**, **API architecture**, and **performance optimization**
-- 🤖 Actively exploring **AI/ML** and **Retrieval-Augmented Generation (RAG)** through coursework and personal projects
-- 🎓 Currently pursuing an **MSc in Computer Science** at Maynooth University (BSc Computer Science, First Class, University of Mumbai)
-- 🌱 **Open to:** Software Engineering roles, Full Stack roles, and AI/ML Engineering opportunities
+- 🏗️ Strong foundation in **backend engineering**, **API development**, and **performance optimization**
+- 🤖 Actively exploring **new AI Platforms** while deepening knowledge of **FastAPI** and backend worklfows through coursework and personal projects
+- 🎓 Currently pursuing an **MSc in Computer Science** @ Maynooth University
+- 🌱 **Open to:** Software Engineering roles and Full Stack developer roles
 
 ---
 
