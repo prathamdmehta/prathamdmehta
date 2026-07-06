@@ -64,17 +64,6 @@ const pratham = {
 
 ---
 
-### 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Retrieval-Augmented Generation (RAG) | 🟣🟣🟣⚪⚪ | Built a document-grounded chatbot using LangChain, FAISS vector search, and OpenAI GPT-4o-mini |
-| Semantic Search | 🟣🟣🟣⚪⚪ | Implemented embedding-based retrieval with source citation for multi-document Q&A |
-| LLM Application Development | 🟣🟣🟣⚪⚪ | Designed caching layers to reduce redundant query processing across chat sessions |
-| Machine Learning Fundamentals | 🟣🟣⚪⚪⚪ | Coursework in Machine Learning as part of MSc Computer Science |
-
----
-
 ### 🚀 Featured Projects
 
 <details>
@@ -172,17 +161,6 @@ Containerized end-to-end with Docker Compose so the entire stack — API, databa
 
 ---
 
-### 💻 Coding Profiles
-
-> *Add your actual profile links below to activate these badges.*
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/YOUR-USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR-USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR-USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR-USERNAME)
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -232,18 +210,21 @@ Containerized end-to-end with Docker Compose so the entire stack — API, databa
 
 ```yaml
 learning:
-  - Machine Learning & RAG architectures
-  - Mobile Application Development
+  - Python web development
+  - Django
+  - FastAPI
+  - REST API development
 building:
-  - AI-powered developer tools
+  - MediaShare
   - Production-grade REST APIs
 exploring:
+  - New AI platforms
   - LLM application design patterns
   - Cloud-native deployment workflows
+  - Deepening FastAPI concepts
 open_to:
   - Software Engineering roles
   - Full Stack Developer roles
-  - AI/ML Engineering opportunities
 ```
 
 ---
