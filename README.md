@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pratham%20Mehta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MSc%20CS%20%40%20Maynooth&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;FastAPI+%2B+Django+%2B+React;Building+RAG+%26+LLM-powered+Apps;MSc+Computer+Science+%40+Maynooth+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;FastAPI+%2B+Django+%2B+React;Building+Scalable+Web+Applications+and+REST+APIs;MSc+Computer+Science+%40+Maynooth+University" alt="Typing SVG" />
 </a>
 
 <br/>
