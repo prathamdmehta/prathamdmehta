@@ -35,14 +35,14 @@ const pratham = {
     role: "Python Web Developer & Full Stack Developer",
     location: "Maynooth, Ireland",
     education: "MSc Computer Science @ Maynooth University",
-    focus: ["Django", "FastAPI", "REST API Design", "Full Stack Development", "Python Web Development"],
+    focus: ["FastAPI", "Django & DRF", "REST API Design", "Full Stack Development", "Python Web Development"],
     mindset: "Building reliable, production-minded software end to end while deepening FastAPI concepts and exploring new AI platforms"
 };
 ```
 
 - 🎯 Full Stack Developer with hands-on experience building end-to-end web applications and RESTful APIs
 - 🏗️ Strong foundation in **backend engineering**, **API development**, and **performance optimization**
-- 🤖 Actively exploring **new AI Platforms** while deepening knowledge of **FastAPI** and backend worklfows through coursework and personal projects
+- 🤖 Actively exploring new **AI Platforms** while deepening knowledge of **FastAPI** and backend worklfows through coursework and personal projects
 - 🎓 Currently pursuing an **MSc in Computer Science** @ Maynooth University
 - 🌱 **Open to:** Software Engineering roles and Full Stack developer roles
 
@@ -169,16 +169,6 @@ Containerized end-to-end with Docker Compose so the entire stack — API, databa
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdmehta&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=E5E7EB&bg_color=0D1117" width="60%" />
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prathamdmehta&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true" />
 
 </div>
 
