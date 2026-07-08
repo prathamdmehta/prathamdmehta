@@ -147,6 +147,7 @@ Containerized end-to-end with Docker Compose so the entire stack — API, databa
 
 </div>
 
+<!--
 ---
 
 ### 📜 Certifications
@@ -156,7 +157,7 @@ Containerized end-to-end with Docker Compose so the entire stack — API, databa
 ![Web Dev](https://img.shields.io/badge/Web_Development_%26_Design-2024-6D28D9?style=flat-square&logo=html5&logoColor=white)
 
 *Covered responsive design, UI/UX principles, and modern frontend development.*
-
+-->
 ---
 
 ### 📊 GitHub Analytics
