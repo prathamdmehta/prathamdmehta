@@ -2,7 +2,7 @@
 
 <img src="https://github.com/prathamdmehta/prathamdmehta/blob/main/git-banner.gif">
 
-<br/>
+---
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pratham%20Mehta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MSc%20CS%20%40%20Maynooth&descAlignY=55&descSize=18)
 
