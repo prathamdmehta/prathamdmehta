@@ -66,21 +66,20 @@ const pratham = {
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>🤖 PDF RAG Chatbot</b></summary>
+<summary><b>📁 MediaShare</b></summary>
 <br/>
 
-A Retrieval-Augmented Generation chatbot that answers questions over uploaded PDF documents with cited sources, through a ChatGPT-style interface.
+A private media sharing platform for direct file transfer between users — with secure authentication, access control, real-time notifications, and Google OAuth sign-in.
 
 | | |
 |---|---|
-| **Stack** | LangChain, OpenAI GPT-4o-mini, Streamlit, FAISS |
-| **Scale** | Supports analysis of 10+ page documents, 5+ concurrent uploads |
-| **Performance** | Query caching to avoid repeated processing across multi-document sessions |
-| **Security** | Scoped document context per session |
-| **Impact** | Enables fast, source-cited Q&A over long documents |
-| **Repository** | [rag-pdfchatbot](https://rag-pdfchatbot/) |
+| **Stack** | FastAPI, PostgreSQL, Redis, Celery, React, TypeScript, Tailwind CSS |
+| **Auth** | JWT access tokens, refresh token rotation, Google OAuth |
+| **Storage** | AWS S3 (LocalStack in development) |
+| **Real-time** | Server-Sent Events (SSE) via Redis pub/sub |
+| **Impact** | Direct, private file sharing with no public feed |
 
-Built a RAG-based PDF chatbot combining semantic search with source citations, designed to make navigating long documents fast and verifiable rather than a manual search-and-skim process.
+Built MediaShare as a production-ready file sharing app for sending images, videos, and documents privately between specific users.
 
 </details>
 
