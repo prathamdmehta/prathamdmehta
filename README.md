@@ -166,12 +166,10 @@ Containerized end-to-end with Docker Compose so the entire stack — API, databa
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prathamdmehta&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdmehta&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=E5E7EB&bg_color=0D1117" width="60%" />
-
+  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api?username=prathamdmehta&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats-nine-topaz-27.vercel.app/api/top-langs?username=prathamdmehta&layout=compact&theme=dracula" height="150" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdmehta&theme=dracula" />
 </div>
 
 ---
