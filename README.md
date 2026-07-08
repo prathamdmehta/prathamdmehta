@@ -54,17 +54,12 @@ const pratham = {
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML/CSS](https://skillicons.dev/icons?i=html,css) ![Bash](https://skillicons.dev/icons?i=bash)
-
-**Frontend**
-![React](https://skillicons.dev/icons?i=react)
-
-**Backend & Databases**
-![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-**Cloud, DevOps & Tooling**
-![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
+| Category | Technologies |
+|---|---|
+| Languages | <img src="https://skillicons.dev/icons?i=python,js,c,cpp,mysql,html,css,bash" height="40" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=react" height="40" /> |
+| Backend & Databases | <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mysql,postgres,mongodb" height="40" /> |
+| Cloud, DevOps & Tooling | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel" height="40" /> |
 
 ---
 
