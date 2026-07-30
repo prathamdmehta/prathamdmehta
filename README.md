@@ -69,6 +69,11 @@ const pratham = {
 <details>
 <summary><b>⚙️ backend-dash</b></summary>
 <br/>
+  
+[![PyPI version](https://img.shields.io/pypi/v/backend-dash.svg)](https://pypi.org/project/backend-dash/)
+[![Pepy Total Downloads](https://img.shields.io/pepy/dt/backend-dash)](https://pepy.tech/project/backend-dash)
+[![License](https://img.shields.io/pypi/l/backend-dash.svg)](https://github.com/prathamdmehta/backend-dash/blob/main/LICENSE)
+[![Python versions](https://img.shields.io/pypi/pyversions/backend-dash.svg)](https://pypi.org/project/backend-dash/)
 
 A CLI that scaffolds ready-to-code FastAPI backend projects in one command.
 
