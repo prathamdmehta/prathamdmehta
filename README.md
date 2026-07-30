@@ -66,6 +66,26 @@ const pratham = {
 ### 🚀 Featured Projects
 
 <details>
+<summary><b>⚙️ backend-dash</b></summary>
+<br/>
+
+A CLI that scaffolds ready-to-code FastAPI backend projects in one command.
+
+| | |
+|---|---|
+| **Stack** | FastAPI, SQLAlchemy, Alembic, SQLite, PostgreSQL, MySQL, JWT, Google OAuth, Docker |
+| **What it does** | Generates a working backend with folder structure, DB wiring, CRUD example, tests, and optional auth |
+| **Database support** | SQLite by default, plus PostgreSQL/MySQL with real Alembic migrations |
+| **Auth** | Optional JWT auth and Google OAuth support |
+| **Docker** | Generates Dockerfile and docker-compose.yml with DB service included |
+| **Install** | `pip install backend-dash` or `uvx backend-dash init "My API" --auth --db=postgres` |
+| **Repository** | [backend-dash](https://github.com/prathamdmehta/backend-dash) |
+
+Built to remove repetitive backend setup so you can jump straight into business logic.
+
+</details>
+
+<details>
 <summary><b>📁 MediaShare</b></summary>
 <br/>
 
@@ -80,25 +100,6 @@ A private media sharing platform for direct file transfer between users — with
 | **Impact** | Direct, private file sharing with no public feed |
 
 Built MediaShare as a production-ready file sharing app for sending images, videos, and documents privately between specific users.
-
-</details>
-
-<details>
-<summary><b>🛒 E-Commerce REST API</b></summary>
-<br/>
-
-A modular e-commerce backend with authenticated endpoints for products, categories, and orders.
-
-| | |
-|---|---|
-| **Stack** | FastAPI, SQLAlchemy, SQLite, JWT, Pydantic |
-| **Scale** | 15+ endpoints across 3 route modules (products, categories, orders) |
-| **Performance** | Dedicated CRUD layer, optimized query structure |
-| **Security** | JWT authentication with bcrypt password hashing |
-| **Impact** | Auto-generated Swagger UI & ReDoc docs, automatic stock decrement on order creation |
-| **Repository** | *Add repo link* |
-
-Designed with a clean separation of concerns — routing, schemas, and CRUD logic — with Pydantic v2 validation ensuring data integrity across every endpoint.
 
 </details>
 
