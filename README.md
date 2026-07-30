@@ -21,13 +21,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamdmehta)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtapratham0612@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamdmehta)
-[![PyPI](https://img.shields.io/badge/PyPI-backend--dash-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/backend-dash/)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prathamdmehta&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/prathamdmehta?style=for-the-badge&color=8B5CF6&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/prathamdmehta?style=for-the-badge&color=8B5CF6&label=STARS)
+[![PyPI](https://img.shields.io/badge/PyPI-backend--dash-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/backend-dash/)
 
 </div>
 
