@@ -203,8 +203,8 @@ learning:
   - FastAPI
   - REST API development
 building:
-  - MediaShare
-  - Production-grade REST APIs
+  - backend-dash
+  - A CLI that scaffolds ready-to-code FastAPI backend projects in one command.
 exploring:
   - New AI platforms
   - LLM application design patterns
