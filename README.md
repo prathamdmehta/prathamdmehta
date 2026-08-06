@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/prathamdmehta/prathamdmehta/blob/main/git-banner-final.gif">
+<img src="https://github.com/prathamdmehta/prathamdmehta/blob/main/pixel-jeff-mario.gif">
 
 ---
 
